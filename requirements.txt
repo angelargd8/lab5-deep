@@ -1,0 +1,20 @@
+# ===== Núcleo científico =====
+numpy
+scipy
+Pillow
+matplotlib
+spacy
+scikit-image
+
+# ===== PyTorch stack (CPU) compatible con torchtext =====
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+torchaudio==2.3.1+cpu
+torchtext==0.18.0
+-f https://download.pytorch.org/whl/cpu
+
+# ===== jhwutils desde GitHub =====
+https://github.com/johnhw/jhwutils/zipball/master
+
+# ===== lautils (comentado hasta que tengas acceso) =====
+# https://github.com/AlbertS789/lautils/zipball/master
