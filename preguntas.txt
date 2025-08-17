@@ -16,7 +16,7 @@ y reparte probabilidades entre varios tokens y existe algo de ruido en los token
 pero se confunde al traducir oraciones.
 
 * Observe el comportamiento de la pérdida y PPL en training y validation mientras se entrega el modelo, ¿qué puede decir de estos valores?
-El modelo si aprende pero de manera lenta, ambos tienen una curvas de aprendizajes similares, aunque la perdida baja considerablemente mas que el PPL training-
+El modelo si aprende pero de manera lenta, ambos tienen una curvas de aprendizajes similares, aunque la perdida baja considerablemente mas que el PPL training.
 Esto no significa que el modelo no este aprendiendo bien si no sus calculos se estan haciendo de diferente forma.
 
 
